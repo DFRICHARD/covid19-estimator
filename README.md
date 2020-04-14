@@ -1,3 +1,9 @@
+---
+noteId: "4a0559c07c1a11eab129cd49ce3e0c52"
+tags: []
+
+---
+
 # #BuildForSDG Cohort-1 Python Assessment
 
 > Build an overly simplified COVID-19 infection impact estimator
